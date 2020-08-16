@@ -35,6 +35,12 @@ open atom;
 
 atom .
 
+Google colab
+
+Python Libraries(pandas,numpy,scikit learn)
+
+Github
+
 ## TECHNOLOGIES used
 
 python pandas
